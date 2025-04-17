@@ -1,3 +1,3 @@
-# 2022 Safety Case Competition
+# Executive Summary
 
-I participated in the 2022 BYU Safety & Ethics Case Study Competition that involved analyzing safety risks in a conceptual manufacturing process for an ESD-sensitive electronic board using acetone, a flammable solvent.
+In this competition, I collaborated with two chemical engineers to analyze safety risks in a conceptual manufacturing process for an ESD-sensitive electronic board using acetone, a flammable solvent. We won second place.
